@@ -1,0 +1,14 @@
+body{
+    background: #263238;
+}
+ul{
+    transition: 1s all ease;
+}
+.li {
+
+}
+
+@keyframes li{
+    from { top: 0; left: 0; }
+    to   { top: 100px; left: 100px; }
+}
